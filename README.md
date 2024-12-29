@@ -24,5 +24,5 @@ You can test the live demo here:
 
 ## 📺 Watch the Video
 For a detailed explanation and walkthrough, watch the video on YouTube:  
-[Watch on YouTube](https://rolls-royce-landing-page-design.vercel.app/)
+[Watch on YouTube](https://www.youtube.com/watch?v=Gjuqhh-VdFA&t=146s)
 
